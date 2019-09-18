@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "strict": true,
+    "strictNullChecks": false,
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "noEmit": false
+  },
+  "include": [
+    "js/*.ts"
+  ]
+}
