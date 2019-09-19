@@ -44,3 +44,64 @@ td {
     line-height: 20px;
     font-weight: bold;
 }
+
+.mine-item {
+    background: #d9d9d9 url("../imgs/mine.png") no-repeat center center / cover;
+}
+
+.flag {
+    background: #d9d9d9 url("../imgs/flag.png") no-repeat center center / cover;
+}
+
+td.zero {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+
+td.one {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #0332fe;
+}
+
+td.two {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #019f02;
+}
+
+td.three {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff2600;
+}
+
+td.four {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #93208f;
+}
+
+td.five {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff7f29;
+}
+
+td.six {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff3fff;
+}
+
+td.seven {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #3fffbf;
+}
+
+td.eight {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #22ee0f;
+}
